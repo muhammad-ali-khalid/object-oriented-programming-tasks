@@ -67,6 +67,12 @@ build CMakeFiles/object_oriented_programming_tasks.dir/task3.cpp.o: CXX_COMPILER
   OBJECT_DIR = CMakeFiles/object_oriented_programming_tasks.dir
   OBJECT_FILE_DIR = CMakeFiles/object_oriented_programming_tasks.dir
 
+build CMakeFiles/object_oriented_programming_tasks.dir/task4.cpp.o: CXX_COMPILER__object_oriented_programming_tasks_unscanned_Debug /home/muhammad-ali/CLionProjects/object-oriented-programming-tasks/task4.cpp || cmake_object_order_depends_target_object_oriented_programming_tasks
+  DEP_FILE = CMakeFiles/object_oriented_programming_tasks.dir/task4.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/object_oriented_programming_tasks.dir
+  OBJECT_FILE_DIR = CMakeFiles/object_oriented_programming_tasks.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target object_oriented_programming_tasks
@@ -75,7 +81,7 @@ build CMakeFiles/object_oriented_programming_tasks.dir/task3.cpp.o: CXX_COMPILER
 #############################################
 # Link the executable object_oriented_programming_tasks
 
-build object_oriented_programming_tasks: CXX_EXECUTABLE_LINKER__object_oriented_programming_tasks_Debug CMakeFiles/object_oriented_programming_tasks.dir/task1.cpp.o CMakeFiles/object_oriented_programming_tasks.dir/task2.cpp.o CMakeFiles/object_oriented_programming_tasks.dir/task3.cpp.o
+build object_oriented_programming_tasks: CXX_EXECUTABLE_LINKER__object_oriented_programming_tasks_Debug CMakeFiles/object_oriented_programming_tasks.dir/task1.cpp.o CMakeFiles/object_oriented_programming_tasks.dir/task2.cpp.o CMakeFiles/object_oriented_programming_tasks.dir/task3.cpp.o CMakeFiles/object_oriented_programming_tasks.dir/task4.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/object_oriented_programming_tasks.dir
   POST_BUILD = :
