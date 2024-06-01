@@ -1,3 +1,8 @@
 # ninja log v5
 397	549	1717218437340768936	object_oriented_programming_tasks	16f30947e7ea5348
 1	396	1717218437188768940	CMakeFiles/object_oriented_programming_tasks.dir/main.cpp.o	607a8b92ae425f23
+5	82	1717220245200722866	build.ninja	f8811a9b254dd9e9
+2	73	1717220245276722864	CMakeFiles/object_oriented_programming_tasks.dir/task2.cpp.o	d84d158ee9201cf6
+8	74	1717220245280722864	CMakeFiles/object_oriented_programming_tasks.dir/task3.cpp.o	17ae21798fe94db0
+1	659	1717220245872722849	CMakeFiles/object_oriented_programming_tasks.dir/task1.cpp.o	b99f5b011f48cbfd
+659	791	1717220246000722845	object_oriented_programming_tasks	ddd59ca45cccce4e
