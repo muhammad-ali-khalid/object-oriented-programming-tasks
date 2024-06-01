@@ -39,6 +39,7 @@ int main() {
     for (int &i: arr) {
         cin >> i;
     }
+    display(arr);
     addElement(arr);
     display(arr);
     cout << "Enter index to remove an element: ";
