@@ -1,3 +1,0 @@
-/home/muhammad-ali/CLionProjects/object-oriented-programming-tasks/cmake-build-debug/CMakeFiles/object_oriented_programming_tasks.dir
-/home/muhammad-ali/CLionProjects/object-oriented-programming-tasks/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/muhammad-ali/CLionProjects/object-oriented-programming-tasks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
